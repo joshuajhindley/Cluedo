@@ -13,5 +13,5 @@ There are two options to run this application. You must have Java 8 installed fo
   1. Download the repository as a zip. 
   2. Unzip the repository. 
   3. Navigate to the `src` folder with the command line.
-  4. Compile the application with the command `javac gui.GUI.java` or `javac gui/GUI.java`.
+  4. Compile the application with the command `javac gui/GUI.java`.
   5. Run the application with the command `java gui.GUI` or `java gui/GUI`.
