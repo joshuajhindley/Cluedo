@@ -1,7 +1,7 @@
 # Cluedo
 This is a graphics based Cluedo game written in Java.
 
-This game was created by [Joshua Hindley](https://github.com/joshuajhindley) and [Joshua Harwood](https://github.com/JoshuaHarwood) as an assignment at Victoria University of Wellington in 2019.
+This game was created by [Joshua Hindley](https://github.com/joshuajhindley) and [Joshua Harwood](https://github.com/JoshuaHarwood) for an assignment for a course at Victoria University of Wellington in 2019.
 
 There are two options to run this application. You must have Java 8 installed for both of them.
 #### Option 1:
